@@ -1,6 +1,6 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Gustavo Cárdenas 👋
 
-![Imagen de Cabecera](/assets/Aiyangar.png)
+<img src="https://github.com/aiyangar/aiyangar/blob/main/assets/Aiyangar.png" width="300" />
 
 
 ## Sobre Mí
