@@ -33,7 +33,7 @@
 
 
 ## Encuéntrame en
-- LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/gustavo-cardenas/)
+- LinkedIn: [Gustavo Cárdenas](https://www.linkedin.com/in/gustavo-cardenas/)
 
 <!--
 ## Videos
