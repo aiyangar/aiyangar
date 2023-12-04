@@ -8,7 +8,7 @@
 - 🌱 Estoy desarrollando habilidades como programador **Fullstack**
 - 💬 Pregúntame sobre **Matemáticas y/o Física** o cuando salir a tomar un café.
 - ⚡ Dato curioso: Recuerdo que mientras estudiaba Bachillerato me encontré con la curiosa asignatura de Lógica. El examen final constaba de una sola pregunta:
->Cómo puedes demostrar, de forma lógica, que ésta silla *(El maestro colocó una silla justo en frente del pizarrón)* no se encuentra aquí.
+>¿Cómo puedes demostrar, de forma lógica, que ésta silla *(El maestro colocó una silla justo en frente del pizarrón)* no se encuentra aquí?
 >Después de razonar por unos 30 segundos, escribí mi respuesta:
 >***¿Cuál silla?***
 
